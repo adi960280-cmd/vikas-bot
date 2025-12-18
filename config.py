@@ -8,7 +8,7 @@ API_ID = int(os.environ.get("API_ID", "29115102"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","1a331db2b00e9d2decaa9c7276449eb6")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOK")
+BOT_TOKEN = os.environ.get("BOT_TOK"7978834671:AAG2tDYiAexb6ifcB7Tup5-EkRYDnAOpfgE")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Khhdf_bot")
 BOT_TEXT = "Kingextractor 🫵"
@@ -39,13 +39,13 @@ THUMB_URL = os.environ.get("THUMB_URL", "https://graph.org/file/040538eb20ce74f4
 
 
 # # Bot configuration
-# API_ID = int(os.environ.get("API_ID", "22923037"))
-# API_HASH = os.environ.get("API_HASH", "dfb3666878b3851460a58461c5a50f5b")
-# BOT_TOKEN = os.environ.get("BOT_TOKEN", "7742756081:AAE0lniU60O-j3mqninLjeT9N4wSuklpRv4")
+# API_ID = int(os.environ.get("API_ID","29115102"))
+# API_HASH = os.environ.get("API_HASH", "1a331db2b00e9d2decaa9c7276449eb6")
+# BOT_TOKEN = os.environ.get("BOT_TOKEN", "7978834671:AAG2tDYiAexb6ifcB7Tup5-EkRYDnAOpfgE")
 # BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Vighneshsonawale")
-# OWNER_ID = int(os.environ.get("OWNER_ID", "7576541713"))
-# SUDO_USERS = list(map(int, getenv("SUDO_USERS", "7576541713").split()))
-# CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002738877634"))
+# OWNER_ID = int(os.environ.get("OWNER_ID", "1224092270"))
+# SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1224092270").split()))
+# CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002067304488"))
 # MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://vikassonawale0:JWyQFas7vlG1bkaL@cluster0.beermge.mongodb.net/?retryWrites=true&w=majority")
 # PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002812171506"))
 # THUMB_URL = os.environ.get("THUMB_URL", "https://graph.org/file/040538eb20ce74f49d82a-8367e49a92b8289fc7.jpg")
